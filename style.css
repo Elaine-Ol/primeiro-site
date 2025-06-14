@@ -12,6 +12,14 @@
     height: 100vh;
 }
 
+.inicio h2{
+    text-align: center;
+    font-family: Arial;
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+    background-color: red;
+}
+
 .inicio h1{
 
     text-align: center;

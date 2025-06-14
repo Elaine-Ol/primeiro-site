@@ -18,6 +18,7 @@
     color: rgb(255, 255, 255);
     font-size: 60px;
     background-color: red;
+    
 }
 
 .inicio h1{
@@ -78,6 +79,7 @@
     background-attachment: fixed; 
     height: 100vh;
     background-color: rgb(3, 3, 62);
+    
 }
 
 .pg2 a{
@@ -102,13 +104,19 @@
 
 
 .pg2 h2{
-    text-align: center;
+    margin: 0 auto;
+    text-align:center;
+    border-radius: 5px;
     font-size: 40px;
-    color: rgb(255, 255, 255);
-    background-color: rgb(0, 0, 153);
+    color:black;
+    background-color: rgba(255, 255, 255, 0.479);
+    width: 900px;
+    
+    
 }
 
 .pg2 p,ul{
+    padding: 20px;
     margin: 0 auto;
     text-align: center;
     color: white;
@@ -117,6 +125,7 @@
     height: auto;
     
 }
+
 .msg{
     margin:0 auto;
     text-align: justify;
